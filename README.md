@@ -1,6 +1,5 @@
 👋 Hi, I’m Hannah!
 👀 I’m interested in .net, C#, Python, Cloud-based EDI iPaaS, anything Microsoft
-🌱 I’m currently learning .net and c# working on a team of RPG/CL IBMi devs
 📫 How to reach me hannah.williams@kehe.com
 
 <!---
